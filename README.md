@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Swan-Yee
-- 👀 I’m interested in Girls.
+- 👀 I’m interested in PHP.
 - 🌱 I’m currently learning laravel.
 
 
